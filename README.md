@@ -4,7 +4,7 @@
 
 Hello, I'm Klaus. I'm a security researcher. I work primarily with Solidity, and I can also handle Rust-based contracts or Cairo. I'm specialized in DeFi, bridges, and multi-chain protocols.
 
-If you want audits or security consulting, please contact me on Twitter(@klaus_dev) or Discord(@klaus_).
+If you want an audit or security consulting, feel free to contact me on X(@klaus_dev) or Discord(@klaus_).
 
 ## Completed works
 
