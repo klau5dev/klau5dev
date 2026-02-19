@@ -1,5 +1,7 @@
 <img height="20" src="https://img.shields.io/badge/Solidity-63698d?style=flat" /> <img height="20" src="https://img.shields.io/badge/Yul-eae0cf?style=flat" /> <img height="20" src="https://img.shields.io/badge/Rust-dcb24f?style=flat" /> <img height="20" src="https://img.shields.io/badge/Cairo-ff6324?style=flat" />
 
+## About me
+
 Hello, I'm Klaus. I'm a security researcher. I work primarily with Solidity, and I can also handle Rust-based contracts or Cairo. I'm specialized in DeFi, bridges, and multi-chain protocols.
 
 If you want audits or security consulting, please contact me on Twitter(@klaus_dev) or Discord(@klaus_).
