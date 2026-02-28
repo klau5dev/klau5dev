@@ -2,7 +2,10 @@
 
 ## About me
 
-Hello, I'm Klaus. I'm a security researcher. I work primarily with Solidity, and I can also handle Rust-based contracts or Cairo. I'm specialized in DeFi, bridges, and multi-chain protocols.
+![code4rena_2024](code4rena_2024.png)
+
+Hello, I'm Klaus. I am a highly skilled security researcher, ranked 11th in code4rena in 2024.<br>
+I work primarily with Solidity, and I can also handle Rust-based contracts or Cairo. I'm specialized in DeFi, bridges, and multi-chain protocols.
 
 If you want an audit or security consulting, feel free to contact me on X(@klaus_dev) or Discord(@klaus_).
 
